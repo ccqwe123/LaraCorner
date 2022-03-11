@@ -50025,8 +50025,8 @@ __webpack_require__.r(__webpack_exports__);
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! C:\Users\Dugz\Desktop\New folder (3)\crud\resources\js\app.js */"./resources/js/app.js");
-module.exports = __webpack_require__(/*! C:\Users\Dugz\Desktop\New folder (3)\crud\resources\sass\app.scss */"./resources/sass/app.scss");
+__webpack_require__(/*! C:\Users\jrcja\Desktop\laracorner\resources\js\app.js */"./resources/js/app.js");
+module.exports = __webpack_require__(/*! C:\Users\jrcja\Desktop\laracorner\resources\sass\app.scss */"./resources/sass/app.scss");
 
 
 /***/ })
