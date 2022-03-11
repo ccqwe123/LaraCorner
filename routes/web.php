@@ -12,7 +12,7 @@
 */
 
 Route::get('/', function () {
-    return view('crud.basic');
+    return redirect()->route('crud.index');
 });
 
 Route::resource('basic/crud', 'BasicController');
