@@ -11,8 +11,8 @@
 |
 */
 
-// Route::get('/', function () {
-//     return view('crud.basic');
-// });
+Route::get('/', function () {
+    return view('crud.basic');
+});
 
 Route::resource('basic/crud', 'BasicController');
