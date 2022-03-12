@@ -1,23 +1,16 @@
 <!DOCTYPE html>
-<!--
-This is a starter template page. Use this page to start your new project from
-scratch. This page gets rid of all links and provides the needed markup only.
--->
 <html lang="en">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Laravel Guide</title>
-
-  <!-- Google Font: Source Sans Pro -->
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700&display=fallback">
   <link rel="stylesheet" type="text/css" href="/css/app.css">
   <link rel="stylesheet" type="text/css" href="/css/style.css">
+  <link rel="icon" type="image/png" href="https://cdn.phcorner.net/styles/default/phcorner/logo/phc_32px.png" sizes="32x32" />
 </head>
 <body class="hold-transition layout-top-nav">
 <div class="wrapper">
-
-  <!-- Navbar -->
   <nav class="main-header navbar navbar-expand-md nav-custom-color header-content">
     <div class="container">
       <a href="/" class="navbar-brand a-link">
