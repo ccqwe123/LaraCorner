@@ -69498,25 +69498,3 @@ readers do not read off random characters that represent icons */
   font-family: "Font Awesome 5 Brands";
   font-weight: 400;
 }
-
-.nav-custom-color
-{
-  background: #667084 !important;
-  border:none;
-  box-shadow: inset #7c869d 0px -1px 0px;
-}
-.nav-custom-color a {
-
-  color: rgba(255,255,255,0.6);
-}
-.nav-custom-color a.a-link:hover
-{
-    color: #fff;
-    text-decoration: none;
-    background: rgba(255,255,255,0.05);
-}
-.header-content {
-    padding: 0;
-    flex-wrap: nowrap;
-    margin: 0 auto;
-}
