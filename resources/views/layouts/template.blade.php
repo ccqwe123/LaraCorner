@@ -6,7 +6,7 @@
   <title>Laravel Guide</title>
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700&display=fallback">
   <link rel="stylesheet" type="text/css" href="/css/app.css">
-  <link rel="stylesheet" href="{{ URL::asset('/css/style.css')}}">
+  <link rel="stylesheet" href="{{ asset('css/style.css', true) }}">
   <link rel="icon" type="image/png" href="https://cdn.phcorner.net/styles/default/phcorner/logo/phc_32px.png" sizes="32x32" />
 </head>
 <body class="hold-transition layout-top-nav">
