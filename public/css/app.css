@@ -69511,7 +69511,7 @@ readers do not read off random characters that represent icons */
 }
 .nav-custom-color a.a-link:hover
 {
-      color: #fff;
+    color: #fff;
     text-decoration: none;
     background: rgba(255,255,255,0.05);
 }
@@ -69520,4 +69520,3 @@ readers do not read off random characters that represent icons */
     flex-wrap: nowrap;
     margin: 0 auto;
 }
-
